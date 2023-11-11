@@ -81,7 +81,7 @@ p {
     min-height: 400px;
     text-align: center;
     color: #fff;
-    background: #9480e4 url("images/cryptocurrency.jpg");
+    background: #04235a url("images/cryptocurrency.jpg");
     background-size: cover;
     padding-bottom: 1.5em;
 }
@@ -124,7 +124,7 @@ input {
 
 input:focus {
     outline: none;
-    border-color: #8a71ec;
+    border-color: #04235a;
     background-color: #e6e8ec;
 }
 
@@ -145,7 +145,7 @@ input:focus {
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #b7a7f6;
+    background-color: #436195;
 }
 
 /* =================
